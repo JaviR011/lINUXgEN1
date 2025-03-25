@@ -1,8 +1,4 @@
-¡Claro! Aquí tienes una **guía con 3 ejemplos de uso para cada uno de los comandos básicos de Linux**, ideal para una sesión de práctica de una hora. Los ejemplos están pensados para que te familiarices con sus funciones más comunes.
 
----
-
-## 🧰 **Comandos básicos de Linux (1 hr)**
 
 ### 1. `ls` – Lista archivos y directorios
 ```bash
@@ -249,6 +245,4 @@ echo $MI_VAR
 export PATH=$PATH:/mi/ruta
 ```
 
----
 
-¿Te gustaría que esto te lo arme como un PDF o archivo imprimible para tu clase?
